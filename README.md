@@ -3,8 +3,11 @@
 I'm Lucy Edosomwan
 Product Data Strategist | Turning marketing & product data into decisions that scale
 I sit at the intersection of data, product, and go-to-market strategy building the governance, dashboards, and insight pipelines that let marketing and product teams move from guessing to knowing. Background spans B2B SaaS, healthcare, and industrial/infrastructure markets, with a foundation in psychology and human behavior that shapes how I turn numbers into decisions people actually act on.
+
 📫 Reach me: lucyedo@gmail.com 
+
 🔗 LinkedIn: https://www.linkedin.com/in/lucyedosomwan
+
 🛠️ Tech Stack
 Data & Analytics: SQL, Python, Tableau, Google Analytics, Advanced Excel
 
